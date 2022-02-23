@@ -92,12 +92,6 @@ var config_data = `
         "title": "Lower Cargo Scored",
         "type":"counter"
       },
-      "Shooting Spot": {
-        "code":"ss",
-        "title": "Shooting Spot",
-        "type":"field_image",
-        "filename":"2022/field_image.png"
-      },
       "Pinning Fouls": {
         "code":"fp",
         "title": "Pinning Fouls",
@@ -107,6 +101,12 @@ var config_data = `
         "code":"fz",
         "title": "Zone Fould",
         "type":"counter"
+      },
+      "Shooting Spot": {
+        "code":"ss",
+        "title": "Shooting Spot",
+        "type":"field_image",
+        "filename":"2022/field_image.png"
       }
     },
     "endgame": {
