@@ -92,13 +92,13 @@ var config_data = `
         "title": "Lower Cargo Scored",
         "type":"counter"
       },
-      "Pinning Fouls": {
-        "code":"fp",
+      "Fouls": {
+        "code":"f",
         "title": "Pinning Fouls",
         "type":"counter"
       },
-      "Zone Fouls": {
-        "code":"fz",
+      "Tech Fouls": {
+        "code":"ft",
         "title": "Zone Fould",
         "type":"counter"
       },
