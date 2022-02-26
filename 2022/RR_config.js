@@ -4,11 +4,11 @@ var config_data = `
   "page_title":"Rapid React",
   "elements":{
     "prematch": {
-      "Scouter Initials": {
+      "Scouter": {
         "code":"s",
         "type":"scouter",
-        "size":5,
-        "maxSize":5,
+        "size":32,
+        "maxSize":32,
         "required":"true"
       },
       "Event":{
