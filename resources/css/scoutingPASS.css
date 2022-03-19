@@ -224,3 +224,17 @@ input {
     color: black;
     background-color: white;
 }
+
+.field button, .field .counter {
+    font-size: 50px;
+}
+
+.field button {
+    padding: 0 20px;
+}
+
+input#input_at {width: 50px;height: 50px;}
+
+#auton_table .title, #teleop_table .title {
+    font-size: 25px;
+}
