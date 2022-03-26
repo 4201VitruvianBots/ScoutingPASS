@@ -119,10 +119,10 @@ var config_data = `
           "2":"Mid<br>",
           "3":"High<br>",
           "4":"Traversal<br>",
-          "f":"Attempted but Failed<br>",
-          "x":"Not Attempted"
+          "0.5":"Attempted but Failed<br>",
+          "0":"Not Attempted"
         },
-        "defaultValue":"x"
+        "defaultValue":"0"
       },
       "Time": {
         "code":"ct",
